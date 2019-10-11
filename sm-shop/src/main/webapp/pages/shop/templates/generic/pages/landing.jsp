@@ -15,6 +15,7 @@ response.setDateHeader ("Expires", -1);
 <%@page pageEncoding="UTF-8"%>
 
         <!-- home banner -->
+        <h1> AROOP KUMAR GOCHHAYAT's STORE</h1>
         <!-- slider-area-start -->
 		<div class="slider-area">
 		<c:choose>
