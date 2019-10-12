@@ -15,7 +15,7 @@ response.setDateHeader ("Expires", -1);
 <%@page pageEncoding="UTF-8"%>
 
         <!-- home banner -->
-        <h1> INFRAMIND SEASON 3</h1>
+        <h1>INFRAMIND SEASON 3</h1>
         <!-- slider-area-start -->
 		<div class="slider-area">
 		<c:choose>
